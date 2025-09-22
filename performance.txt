@@ -1,0 +1,3 @@
+--- Métricas de Rendimiento de la Simulación ---
+Tiempo total de ejecución: 4.226796217 segundos.
+Tiempo promedio por evento: .0042 segundos.
